@@ -1,0 +1,2 @@
+# Overcome
+Overcome is a website created for people suffering from depression. This website has got several features which could be used by the person suffering from depression. The website has it's own group chat where people could share their experiences and talk to like minded people. It has got it's own journal and a personal diary where the person could note down his/her updates in their journey of overcoming depression. The website has some motivational videos and relaxing sound tracks too.
